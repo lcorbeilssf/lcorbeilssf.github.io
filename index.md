@@ -5,7 +5,7 @@ title: John Doe's CV
 
 ![Leif](./media/LeifsHeadshot.jpg){:.avatar}
 
-#Leif Corbeil
+# Leif Corbeil
 Computer Science Student and Technology aficionado
 
 <div id="webaddress">
