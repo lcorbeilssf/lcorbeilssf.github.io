@@ -30,7 +30,7 @@ __Soft Stack Factory__ Certification in Computer Science
 
 * HTML and CSS
 * Javascript
-* Knowledge in frameworks such as Angular.Js, ionic.Js, and git, and node.Js
+* Knowledge in frameworks such as Angular.Js, ionic.Js, git, and node.Js
 
 ## Projects
 
