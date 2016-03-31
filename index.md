@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: John Doe's CV
+title: Leif Corbeil's CV
 ---
 
 ![Leif](./media/LeifsHeadshot.jpg){:.avatar}
