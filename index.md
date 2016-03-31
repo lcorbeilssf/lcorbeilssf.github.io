@@ -6,25 +6,34 @@ title: Leif Corbeil's CV
 ![Leif](./media/LeifsHeadshot.jpg){:.avatar}
 
 # Leif Corbeil
-Computer Science Student and Technology aficionado
+Hybrid Mobile and Web Application Developer
 
 <div id="webaddress">
-<a href="mailto:">lcorbeil@softstackfactory.com</a>
+<a href="mailto:">leif.corbeil@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/">my account</a>
+<i class="fa fa-github"></i> <a href="http://github.com/">lcorbeilssf.github.io</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/">@LeifCorbeil</a>
 </div>
 
 
 ## Currently
 
-I'm a determined and passionate computer science student at Soft Stack Factory, due to finish around May 2016. During my certification I've taken up an interest in mobile technologies and artificial intelligence.
+I’m a determined and passionate student at Soft Stack Factory due to finish end of April 2016.  When I'm not coding I'm teaching voice and piano lessons, performing in musical theater, and producing loops and beats.
 
 ## Education
 
 `2016`
 __Soft Stack Factory__ Certification in Computer Science
+__Culture Shock__ Scholarship Recipient
+
+`2014-15`
+__Grossmont College__ Studies in the Music and Theater Arts, Dance, and Humanities
+__Academy of Performing Arts__ Scholarship Recipient
+
+`2013`
+__El Capitan High School__ Honors Gradute Recipient
+
 
 ## Technical skills
 
