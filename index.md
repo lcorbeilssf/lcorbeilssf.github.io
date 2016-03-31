@@ -29,7 +29,7 @@ At SoftStack Factory we worked on a real world application for a client where I 
 ## Education
 
 `2016`
-* __Soft Stack Factory__ Certification in Computer Science 
+* __Soft Stack Factory__ Certification Recipient
 `2015-16`
 * __Culture Shock__ Scholarship Recipient
 
@@ -63,10 +63,12 @@ Built working Applications
 
 `2016`
 __The Barn Stage Co.__ Actor in Carousel
+
 `2015`
 __Lawrence Welk Resorts__ Actor in Cabaret
 __East L.A. Classic Theater__ Teaching Artist
 __T3 Triple Threat__ Teaching Artist
+
 `2013-14`
 __Sea World San Diego__ Keyboardist for Dreamwork's Madagascar Live!
 __North Coast Repertory__ Actor in You're a Good Man Charlie Brown!
