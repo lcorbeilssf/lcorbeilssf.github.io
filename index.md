@@ -21,6 +21,11 @@ Hybrid Mobile and Web Application Developer
 
 I’m a determined and passionate student at Soft Stack Factory due to finish end of April 2016.  When I'm not coding I'm teaching voice and piano lessons, performing in musical theater, and producing loops and beats.
 
+## About Soft Stack Factory
+
+SoftStack Factory is a 12-week immersion software development bootcamp that teaches hybrid mobile development. We spent the 12 weeks learning JavaScript and frameworks that allowed us to create mobile frontends and backend servers to support our mobile applications.
+At SoftStack Factory we worked on a real world application for a client where I was a team member in delivering the solution to the client. This project took the team 6 weeks to complete, where we had a kickoff meeting with the client, we then created wireframes via Balsamic that were then approved by the client. The work was assigned using pivotal tracker an Agile project management tool where I was focused on the mobile User interface team. The Hybrid mobile application was built using the Ionic framework and it’s command line tools that facilitated the creation of native application using JavaScript and other web technologies. We also created an mBaaS to support the frontend, in which I spent testing the REST services that the front end used.
+
 ## Education
 
 `2016`
@@ -57,11 +62,18 @@ I created a this web page to show off my CV.
 
 Built working Applications
 
-## Experience
+## Work Experience
 
 `2016`
-__Stay at Home Dad__ 
-Father to 4 month child, usually lock it in the closet and feed it milk bones
+__The Barn Stage Co.__ Actor in Carousel
+`2015`
+__Lawrence Welk Resorts__ Actor in Cabaret
+__East L.A. Classic Theater__ Teaching Artist
+__T3 Triple Threat__ Teaching Artist
+`2013-14`
+__Sea World San Diego__ Keyboardist for Dreamwork's Madagascar Live!
+__North Coast Repertory__ Actor in You're a Good Man Charlie Brown!
+__Christian Youth Theater__ Resident Composer and Accompanist
 
 ## Hobbies
 
