@@ -47,11 +47,11 @@ At SoftStack Factory we worked on a real world application for a client where I 
 
 
 
-## Projects
+## Project
 
-### CV
+### RideShare
 
-I created a this web page to show off my CV.  
+Ride sharing application designed to pair people going in the similar directions together.
 
 ## Achievements
 
@@ -72,16 +72,11 @@ __Sea World San Diego__ Keyboardist for Dreamwork's Madagascar Live!
 __North Coast Repertory__ Actor in You're a Good Man Charlie Brown!
 __Christian Youth Theater__ Resident Composer and Accompanist
 
-## Hobbies
-
-* Thumb Wrestling
-* Writing children's Poems 
-* Sleeping
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:">mymail@mymail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:">leif.corbeil@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/">lcorbeilssf</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">@LeifCorbeil</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
+
