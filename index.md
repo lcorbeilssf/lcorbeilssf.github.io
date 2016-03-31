@@ -21,7 +21,7 @@ Hybrid Mobile and Web Application Developer
 
 I’m a determined and passionate student at Soft Stack Factory due to finish end of April 2016.  When I'm not coding I'm teaching voice and piano lessons, performing in musical theater, and producing loops and beats.
 
-## About Soft Stack Factory
+## Soft Stack Factory
 
 SoftStack Factory is a 12-week immersion software development bootcamp that teaches hybrid mobile development. We spent the 12 weeks learning JavaScript and frameworks that allowed us to create mobile frontends and backend servers to support our mobile applications.
 At SoftStack Factory we worked on a real world application for a client where I was a team member in delivering the solution to the client. This project took the team 6 weeks to complete, where we had a kickoff meeting with the client, we then created wireframes via Balsamic that were then approved by the client. The work was assigned using pivotal tracker an Agile project management tool where I was focused on the mobile User interface team. The Hybrid mobile application was built using the Ionic framework and it’s command line tools that facilitated the creation of native application using JavaScript and other web technologies. We also created an mBaaS to support the frontend, in which I spent testing the REST services that the front end used.
@@ -43,12 +43,8 @@ At SoftStack Factory we worked on a real world application for a client where I 
 
 ## Technical skills
 
-* HTML and CSS
-* Javascript
-* Ionic Framework
-* AngularJS
-* Nodejs
-* cordova(phonegap)
+* Skills: JavaScript, Ionic Framework, AngularJS, cordova (phonegap),nodeJS, mongoDB, mySQL, Strongloop (mBaaS), MEAN stack, git, Github, Cloud 9 IDE, pivotal tracker and Balsamic
+
 
 
 ## Projects
