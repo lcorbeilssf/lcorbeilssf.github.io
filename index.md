@@ -39,7 +39,11 @@ I’m a determined and passionate student at Soft Stack Factory due to finish en
 
 * HTML and CSS
 * Javascript
-* Knowledge in frameworks such as Angular.Js, ionic.Js, git, and node.Js
+* Ionic Framework
+* AngularJS
+* Nodejs
+* cordova(phonegap)
+* 
 
 ## Projects
 
@@ -49,9 +53,9 @@ I created a this web page to show off my CV.
 
 ## Achievements
 
-Achievement 1  - Can fit 2 full sized sharpies inside both nostrils at the same time
+12 Week Coding Immersion Program through Soft Stack Factory
 
-Achievement 2 - Can roll tongue into shape of taco
+Built working Applications
 
 ## Experience
 
