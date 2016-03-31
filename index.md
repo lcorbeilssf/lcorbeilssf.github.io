@@ -24,15 +24,15 @@ I’m a determined and passionate student at Soft Stack Factory due to finish en
 ## Education
 
 `2016`
-__Soft Stack Factory__ Certification in Computer Science
-__Culture Shock__ Scholarship Recipient
+* __Soft Stack Factory__ Certification in Computer Science
+* __Culture Shock__ Scholarship Recipient
 
 `2014-15`
-__Grossmont College__ Studies in the Music and Theater Arts, Dance, and Humanities
-__Academy of Performing Arts__ Scholarship Recipient
+* __Grossmont College__ Studies in the Music and Theater Arts, Dance, and Humanities
+* __Academy of Performing Arts__ Scholarship Recipient
 
 `2013`
-__El Capitan High School__ Honors Gradute Recipient
+* __El Capitan High School__ Honors Graduate Recipient
 
 
 ## Technical skills
