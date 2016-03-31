@@ -30,7 +30,8 @@ At SoftStack Factory we worked on a real world application for a client where I 
 
 `2016`
 * __Soft Stack Factory__ Certification in Computer Science 
-         __Culture Shock__ Scholarship Recipient
+`2015-16`
+* __Culture Shock__ Scholarship Recipient
 
 `2014-15`
 * __Grossmont College__ Studies in the Music and Theater Arts, Dance, and Humanities
